@@ -10,6 +10,11 @@
 	--color-dark: #222;
 	--text-light: #EEE;
 	--color-light: #FFF;
+
+	--contrast: 			"3F0091A1";
+	--contrast-dark:  "3B30ED04";
+	--contrast-light: "8D362113";
+	--contrast-small: "C686B754";
 }
 
 body {
